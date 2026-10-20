@@ -1,0 +1,786 @@
+{
+  "source": "E:\\desktop\\千年舟谱——中国船舶史三维动态海报设计海报.html",
+  "source_sha256": "d9a12f2efefdf21fc01ce8c5f4cd4dcada2efeefdcd5cacc8dfeb1baac8e6bec",
+  "resources": [
+    {
+      "id": "workshopMotionData-1",
+      "paths": [
+        "assets/workshopMotionData-1.mp4"
+      ],
+      "bytes": 3353694,
+      "sha256": "96b8c22d8f6e095d5f8c77fa69de826993184c11c3bdb3e2dddf37d227931999"
+    },
+    {
+      "id": "workshopMotionData-2",
+      "paths": [
+        "assets/workshopMotionData-2.mp4"
+      ],
+      "bytes": 2812889,
+      "sha256": "d3b1a04640495dc7de606869b472854bc22a95ee78985e3bbe5334590633d98f"
+    },
+    {
+      "id": "workshopMotionData-3",
+      "paths": [
+        "assets/workshopMotionData-3.mp4"
+      ],
+      "bytes": 3637216,
+      "sha256": "9655313a39eb2a7638f2722bb9b2b4a3eb8fa5c8ecec1f46e528f847ed7e3d55"
+    },
+    {
+      "id": "workshopMotionData-4",
+      "paths": [
+        "assets/workshopMotionData-4.mp4"
+      ],
+      "bytes": 5819587,
+      "sha256": "6ee093b4bb0bc78e3d87f02e142bdda5c2820e5010d9b283db3295e13d7c6466"
+    },
+    {
+      "id": "workshopMotionData-5",
+      "paths": [
+        "assets/workshopMotionData-5.mp4"
+      ],
+      "bytes": 3031501,
+      "sha256": "c134a7c5d54d46eac2a64f5021df049744795aa0a1fa30a9689e782ef3db221a"
+    },
+    {
+      "id": "workshopMotionData-6",
+      "paths": [
+        "assets/workshopMotionData-6.mp4"
+      ],
+      "bytes": 5455607,
+      "sha256": "f61310d38bccb210686c7815ff6a95d512007ca780f0b9ab3b4c428cf413c9f1"
+    },
+    {
+      "id": "workshopMotionData-8",
+      "paths": [
+        "assets/workshopMotionData-8.mp4"
+      ],
+      "bytes": 3404680,
+      "sha256": "dcb490f752f2736cd81110551f9786f878264279b569133e68c2a18e07b10f7f"
+    },
+    {
+      "id": "shipVideoData-dugout",
+      "paths": [
+        "assets/shipVideoData-dugout.mp4"
+      ],
+      "bytes": 13826044,
+      "sha256": "3ddba606dbdc4a3f78d245194b813e65c85720fdadd5246babe9bf8ddc1a0e7d"
+    },
+    {
+      "id": "shipVideoData-tower",
+      "paths": [
+        "assets/shipVideoData-tower.mp4"
+      ],
+      "bytes": 13856550,
+      "sha256": "ffdd8bb4d8b8000b2a1cd11468d9af2e943d55e03ce3921354b7b71ff129d543"
+    },
+    {
+      "id": "shipVideoData-threeKingdoms",
+      "paths": [
+        "assets/shipVideoData-threeKingdoms.mp4"
+      ],
+      "bytes": 27084589,
+      "sha256": "137d188523169853e84e7d8cee2c5f93f53494b4fc9c7b7a1ccc6ca42fef694e"
+    },
+    {
+      "id": "shipVideoData-suiRiver",
+      "paths": [
+        "assets/shipVideoData-suiRiver.mp4"
+      ],
+      "bytes": 14941571,
+      "sha256": "cfafaa7b4a4b5db11eeb2a75be257e6a5ad77bd6d178e0b945adcd626e85ae79"
+    },
+    {
+      "id": "shipVideoData-tangSha",
+      "paths": [
+        "assets/shipVideoData-tangSha.mp4"
+      ],
+      "bytes": 18653782,
+      "sha256": "700a033818b9a80ce2c6eb6fb452b408a96540a8496e6af117bb728d95133aa7"
+    },
+    {
+      "id": "shipVideoData-songShenzhou",
+      "paths": [
+        "assets/shipVideoData-songShenzhou.mp4"
+      ],
+      "bytes": 13390296,
+      "sha256": "38f60b3530213888e1ac26a02275ac1e672eb73d356dc1d630bcaef9cb1396ab"
+    },
+    {
+      "id": "shipVideoData-treasureShip",
+      "paths": [
+        "assets/shipVideoData-treasureShip.mp4"
+      ],
+      "bytes": 15274145,
+      "sha256": "b1b911a2839d587221b6ef773ed08b2b3972168f61913ac26d1e821bdb0eee24"
+    },
+    {
+      "id": "shipVideoData-shandong",
+      "paths": [
+        "assets/shipVideoData-shandong.mp4"
+      ],
+      "bytes": 9391856,
+      "sha256": "f98f5f44616d600d8ddd7773348cdd100026c0c2c5032cc513000ad2f63d83eb"
+    },
+    {
+      "id": "shipVideoData-fujian",
+      "paths": [
+        "assets/shipVideoData-fujian.mp4"
+      ],
+      "bytes": 9413471,
+      "sha256": "c2d2a49b04f5fdbeb8cecf64aea7ad3a7d5e406bad21e5b8c545a24503901c31"
+    },
+    {
+      "id": "shipVideoData-nanchang",
+      "paths": [
+        "assets/shipVideoData-nanchang.mp4"
+      ],
+      "bytes": 11304181,
+      "sha256": "841d1622889592da83c64373ca8da238dcf211cd68765277984da728c8bac2fd"
+    },
+    {
+      "id": "shipVideoData-luohe",
+      "paths": [
+        "assets/shipVideoData-luohe.mp4"
+      ],
+      "bytes": 8714485,
+      "sha256": "d2f899b3a31158552e7d0e2f03bb6c6292334dbfd044caf220dea2f9d2edf248"
+    },
+    {
+      "id": "shipVideoData-lng",
+      "paths": [
+        "assets/shipVideoData-lng.mp4"
+      ],
+      "bytes": 10403922,
+      "sha256": "4b2176d0ebacda422a45d5f6401ade211a5516e456b11bbdebe6309dcd0272df"
+    },
+    {
+      "id": "shipVideoData-bulk",
+      "paths": [
+        "assets/shipVideoData-bulk.mp4"
+      ],
+      "bytes": 12519176,
+      "sha256": "8962fad6aadd8b43b094446b45b3d5160c7b9266ed1aded46904379b697f08e4"
+    },
+    {
+      "id": "shipVideoData-container",
+      "paths": [
+        "assets/shipVideoData-container.mp4"
+      ],
+      "bytes": 16359996,
+      "sha256": "dd473761756fdb3a0902f3ba660317c66bacbccb6ab767a1590dbbb4cf4e9219"
+    },
+    {
+      "id": "shipVideoData-deepsea1",
+      "paths": [
+        "assets/shipVideoData-deepsea1.mp4"
+      ],
+      "bytes": 18277235,
+      "sha256": "5e646dd06ecc495ebd735c21af0426a5039df8b30b33548fd8e43f5ffbc46eea"
+    },
+    {
+      "id": "shipVideoData-jiaolong",
+      "paths": [
+        "assets/shipVideoData-jiaolong.mp4"
+      ],
+      "bytes": 9818771,
+      "sha256": "38a35de45239b502a8b94009b30c882cf527ad8e2463ade10120bb1152bf6ce5"
+    },
+    {
+      "id": "shipVideoData-yongshi",
+      "paths": [
+        "assets/shipVideoData-yongshi.mp4"
+      ],
+      "bytes": 13703722,
+      "sha256": "605d800e9e25f723ac25bbde1dcd1c0459cb82769803d42171e69c26d043cf1b"
+    },
+    {
+      "id": "shipVideoData-fendouzhe",
+      "paths": [
+        "assets/shipVideoData-fendouzhe.mp4"
+      ],
+      "bytes": 12316570,
+      "sha256": "0851805f4be9fb81ff843c33eded1b3d82afcfe5e361f002dbaea76862a8e799"
+    },
+    {
+      "id": "shipVideoData-xuelong",
+      "paths": [
+        "assets/shipVideoData-xuelong.mp4"
+      ],
+      "bytes": 12992846,
+      "sha256": "82737dd033d0ff92ee36b5865e03f61ce3bd20b7ce71671c1448e928da4857c8"
+    },
+    {
+      "id": "shipVideoData-cruise",
+      "paths": [
+        "assets/shipVideoData-cruise.mp4"
+      ],
+      "bytes": 15854400,
+      "sha256": "bbddab0a95098faf53ec760cf851b0c625ae5d0abb7d27f17d502bafaace7b71"
+    },
+    {
+      "id": "shipPosterData-dugout",
+      "paths": [
+        "assets/shipPosterData-dugout.jpg"
+      ],
+      "bytes": 479719,
+      "sha256": "4287184d590bc9dce7d25210ffe948548fd16f6f0dbe8552a49853139b140774"
+    },
+    {
+      "id": "shipPosterData-tower",
+      "paths": [
+        "assets/shipPosterData-tower.jpg"
+      ],
+      "bytes": 824583,
+      "sha256": "f5a513ca2cdc01c677bf594b7c01ae636482dbde0a87e9d9a81a6e3c3cd5a728"
+    },
+    {
+      "id": "shipPosterData-threeKingdoms",
+      "paths": [
+        "assets/shipPosterData-threeKingdoms.jpg"
+      ],
+      "bytes": 1007211,
+      "sha256": "b37f2e1be88792312a32ef51894eb48c95324e3d4730a9a7ba499364267ba7c6"
+    },
+    {
+      "id": "shipPosterData-suiRiver",
+      "paths": [
+        "assets/shipPosterData-suiRiver.jpg"
+      ],
+      "bytes": 583884,
+      "sha256": "7edf0cbe26849a39592d0df67bf771aa90bef895de0ff870a9dfa902a567bc54"
+    },
+    {
+      "id": "shipPosterData-tangSha",
+      "paths": [
+        "assets/shipPosterData-tangSha.jpg"
+      ],
+      "bytes": 693827,
+      "sha256": "5d5c5c82f00e5e67f93b7fc0fc82e5f4d554fcc1aaa98d8da4959452417cd4c9"
+    },
+    {
+      "id": "shipPosterData-songShenzhou",
+      "paths": [
+        "assets/shipPosterData-songShenzhou.jpg"
+      ],
+      "bytes": 529619,
+      "sha256": "26e99cd3573dd293e7f014bd6d324e3a1f99c50da024b32590d5bcbaac27a49f"
+    },
+    {
+      "id": "shipPosterData-treasureShip",
+      "paths": [
+        "assets/shipPosterData-treasureShip.jpg"
+      ],
+      "bytes": 645348,
+      "sha256": "1aebf5726966a524e73b1decf7b2a7b56300b867b9c3cea22ef7f55a02fa689e"
+    },
+    {
+      "id": "shipPosterData-shandong",
+      "paths": [
+        "assets/shipPosterData-shandong.jpg"
+      ],
+      "bytes": 492643,
+      "sha256": "b72cad7c6b67db35117aa772fd2e22e79106d3e8bdede7428c8d66a1cc327452"
+    },
+    {
+      "id": "shipPosterData-fujian",
+      "paths": [
+        "assets/shipPosterData-fujian.jpg"
+      ],
+      "bytes": 477786,
+      "sha256": "c1e12334f5efdb64725161b6058c59ee83ce7b3529878f0bbba86572a91ad9ec"
+    },
+    {
+      "id": "shipPosterData-nanchang",
+      "paths": [
+        "assets/shipPosterData-nanchang.jpg"
+      ],
+      "bytes": 518144,
+      "sha256": "b6eeae39e97d4534ef40765e4561f8d12a9704e0618cd7776509d1b61846e944"
+    },
+    {
+      "id": "shipPosterData-luohe",
+      "paths": [
+        "assets/shipPosterData-luohe.jpg"
+      ],
+      "bytes": 465406,
+      "sha256": "0cf462a1371a3e63754bbba3c343011c5a97f8e2dab175dcca7559a67ef2f953"
+    },
+    {
+      "id": "shipPosterData-lng",
+      "paths": [
+        "assets/shipPosterData-lng.jpg"
+      ],
+      "bytes": 555020,
+      "sha256": "d7683bb394bdbe6322b0bfa41c6a5368e08a2afd0ab70048a15452279bad908f"
+    },
+    {
+      "id": "shipPosterData-bulk",
+      "paths": [
+        "assets/shipPosterData-bulk.jpg"
+      ],
+      "bytes": 579627,
+      "sha256": "3e9b9a5651bab3576e26bd26e1070d5740339efdb2bffec60aeedf0a3b81a7b6"
+    },
+    {
+      "id": "shipPosterData-container",
+      "paths": [
+        "assets/shipPosterData-container.jpg"
+      ],
+      "bytes": 572941,
+      "sha256": "2570f64eca8540eb3de65ce32a486faa21bafaf1d6c3b772203fd789ff7f74c5"
+    },
+    {
+      "id": "shipPosterData-deepsea1",
+      "paths": [
+        "assets/shipPosterData-deepsea1.jpg"
+      ],
+      "bytes": 547803,
+      "sha256": "d39ab6a5fddc0f4a770f41497178f80226fc645d8f4f4f23f59514ad5c66d07a"
+    },
+    {
+      "id": "shipPosterData-jiaolong",
+      "paths": [
+        "assets/shipPosterData-jiaolong.jpg"
+      ],
+      "bytes": 442071,
+      "sha256": "574ce11f4baf2e5e35da262633ab5383a353415a58dea4ebec92f6c7b20ec5f5"
+    },
+    {
+      "id": "shipPosterData-yongshi",
+      "paths": [
+        "assets/shipPosterData-yongshi.jpg"
+      ],
+      "bytes": 476784,
+      "sha256": "09f4551cb35136ba490abe5f5258b3e895291adf494e740fb394ea150e9b6996"
+    },
+    {
+      "id": "shipPosterData-fendouzhe",
+      "paths": [
+        "assets/shipPosterData-fendouzhe.jpg"
+      ],
+      "bytes": 463175,
+      "sha256": "a0540fa1df2818ce2aec5318996f2c686ba65b481636fc6e5381766e78c7e752"
+    },
+    {
+      "id": "shipPosterData-xuelong",
+      "paths": [
+        "assets/shipPosterData-xuelong.jpg"
+      ],
+      "bytes": 474361,
+      "sha256": "20185493fd9b4252c3e2891e810c835c7f516543cc9d33cc4acf047b9fb0bb86"
+    },
+    {
+      "id": "shipPosterData-cruise",
+      "paths": [
+        "assets/shipPosterData-cruise.jpg"
+      ],
+      "bytes": 642114,
+      "sha256": "4c893103e634f21ab18bd80a6e69d7b23ee87ff01236f36f0d764a7e6b1c7c74"
+    },
+    {
+      "id": "shipModelData-dugout",
+      "paths": [
+        "assets/shipModelData-dugout.glb"
+      ],
+      "bytes": 18041796,
+      "sha256": "72ed31809e192d9df40037b8433c06ca1629c8522dc7682035d665f367062913"
+    },
+    {
+      "id": "shipModelData-threeKingdoms",
+      "paths": [
+        "assets/shipModelData-threeKingdoms.glb"
+      ],
+      "bytes": 2181376,
+      "sha256": "4d66bf086dd44e864dbe610c70ad220da17011a757e003a1e5e1eba287071398"
+    },
+    {
+      "id": "shipModelData-tangSha",
+      "paths": [
+        "assets/shipModelData-tangSha.glb"
+      ],
+      "bytes": 7040204,
+      "sha256": "080330dc0e9e7998d12a308f99fd3384f64536e09a704562e4934821ac1bedce"
+    },
+    {
+      "id": "shipModelData-treasureShip",
+      "paths": [
+        "assets/shipModelData-treasureShip.glb"
+      ],
+      "bytes": 25814772,
+      "sha256": "c865939e268fcfc148a803dcec9a855d18ef5f01a8d78870834d0138e74fb391"
+    },
+    {
+      "id": "shipModelData-tower",
+      "paths": [
+        "assets/shipModelData-tower.glb"
+      ],
+      "bytes": 7491032,
+      "sha256": "d73651c478f5bd5b820a05ec3a86afc56f4d39260e7bea9d265862f76e5aeb91"
+    },
+    {
+      "id": "shipModelData-suiRiver",
+      "paths": [
+        "assets/shipModelData-suiRiver.glb"
+      ],
+      "bytes": 2818104,
+      "sha256": "0a3cd4ebabb3cf4501d3d4dd6365d102094e9b29d1dd982652d882b9ab6be72f"
+    },
+    {
+      "id": "shipModelData-songShenzhou",
+      "paths": [
+        "assets/shipModelData-songShenzhou.glb"
+      ],
+      "bytes": 4525604,
+      "sha256": "e87ed9ca3e8bf603280e88a94b1ab5e53f285c943fc143e4105c524a8fc191a5"
+    },
+    {
+      "id": "shipModelData-shandong",
+      "paths": [
+        "assets/shipModelData-shandong.glb"
+      ],
+      "bytes": 13562512,
+      "sha256": "25daef5a7ac3eb09cfe1ad69f4389732455399ee3da45342a0e5ebc767623739"
+    },
+    {
+      "id": "shipModelData-fujian",
+      "paths": [
+        "assets/shipModelData-fujian.glb"
+      ],
+      "bytes": 5375988,
+      "sha256": "a449d0181a01c76cf54a1bc9cd7a32a8bd2f96eccbed60efcd9fbfe917679ef7"
+    },
+    {
+      "id": "shipModelData-luohe",
+      "paths": [
+        "assets/shipModelData-luohe.glb"
+      ],
+      "bytes": 4412520,
+      "sha256": "b8319aafb9e0241db636b772fa23025462ebe822c1143b05c546589528ae5fdc"
+    },
+    {
+      "id": "shipModelData-nanchang",
+      "paths": [
+        "assets/shipModelData-nanchang.glb"
+      ],
+      "bytes": 4083760,
+      "sha256": "73c826fdd526adb40c9e1cc1498699301eed990130b953c1e9365c0b8612b257"
+    },
+    {
+      "id": "shipModelData-lng",
+      "paths": [
+        "assets/shipModelData-lng.glb"
+      ],
+      "bytes": 10292932,
+      "sha256": "9b6a0dcb1366a0cbba2ba868e3936820483c0190a4b27618ebafeab5502877e6"
+    },
+    {
+      "id": "shipModelData-bulk",
+      "paths": [
+        "assets/shipModelData-bulk.glb"
+      ],
+      "bytes": 5103444,
+      "sha256": "8d6c9f0b4f1e9abbf6e50fb016dd6f5ecf0cdf0e79bc23b5a50d2deb8685eaf1"
+    },
+    {
+      "id": "shipModelData-container",
+      "paths": [
+        "assets/shipModelData-container.part01.glb",
+        "assets/shipModelData-container.part02.glb",
+        "assets/shipModelData-container.part03.glb"
+      ],
+      "bytes": 158822436,
+      "sha256": "7c1f90f2aa8d974b406a72d8497a336916190b12c136929fafcaf300cdd8b248"
+    },
+    {
+      "id": "shipModelData-deepsea1",
+      "paths": [
+        "assets/shipModelData-deepsea1.glb"
+      ],
+      "bytes": 6669616,
+      "sha256": "90c81983051ca87d2d43bca3fb057a3e77bae7cd5e7bd6f5805d2974f86942a6"
+    },
+    {
+      "id": "shipModelData-jiaolong",
+      "paths": [
+        "assets/shipModelData-jiaolong.glb"
+      ],
+      "bytes": 1022652,
+      "sha256": "5c630588b60b3306774a6895661b9548934fdf43cd1ffab1f7ac7944a20f7266"
+    },
+    {
+      "id": "shipModelData-yongshi",
+      "paths": [
+        "assets/shipModelData-yongshi.glb"
+      ],
+      "bytes": 2602136,
+      "sha256": "0298f9a9a275c8999658f83a07f55ce1ba590cf1cb9e0195ea447e09a11afb8a"
+    },
+    {
+      "id": "shipModelData-fendouzhe",
+      "paths": [
+        "assets/shipModelData-fendouzhe.glb"
+      ],
+      "bytes": 2452808,
+      "sha256": "eee2e25b3a83af4466c33b70761a5adb31062e7594b51602e07befc712ded26a"
+    },
+    {
+      "id": "shipModelData-xuelong",
+      "paths": [
+        "assets/shipModelData-xuelong.glb"
+      ],
+      "bytes": 5660668,
+      "sha256": "7275edf7b7823814fa3af8a2d18703ac924338298fb7cd97f06d589d28485dfa"
+    },
+    {
+      "id": "shipModelData-cruise",
+      "paths": [
+        "assets/shipModelData-cruise.glb"
+      ],
+      "bytes": 28670108,
+      "sha256": "a2849e1a3072caf3a0fdfc4a05e84afeb39714d666cd855ba5ca2e98e36f55ca"
+    },
+    {
+      "id": "image-4b049f89f5eae905805d.png",
+      "paths": [
+        "assets/image-4b049f89f5eae905805d.png"
+      ],
+      "bytes": 2417589,
+      "sha256": "4b049f89f5eae905805da085d0344a8d03fbfd42f24469d1e49eb25b7a334066"
+    },
+    {
+      "id": "image-e9bc63917450c3744d45.webp",
+      "paths": [
+        "assets/image-e9bc63917450c3744d45.webp"
+      ],
+      "bytes": 44122,
+      "sha256": "e9bc63917450c3744d45f007fe3862b464057afad7b19195ee7f3669333564b9"
+    },
+    {
+      "id": "image-5041a0062c7cebdbdaf4.png",
+      "paths": [
+        "assets/image-5041a0062c7cebdbdaf4.png"
+      ],
+      "bytes": 197923,
+      "sha256": "5041a0062c7cebdbdaf47dabf2ece6692895fe72a92399b34a4df1f5948ac916"
+    },
+    {
+      "id": "image-830097a5c5e86df3a9f3.png",
+      "paths": [
+        "assets/image-830097a5c5e86df3a9f3.png"
+      ],
+      "bytes": 231885,
+      "sha256": "830097a5c5e86df3a9f3be88beb480e3fb5fec5f100e5c9c133173beed0877d1"
+    },
+    {
+      "id": "image-14bab361092d9f04f034.webp",
+      "paths": [
+        "assets/image-14bab361092d9f04f034.webp"
+      ],
+      "bytes": 53958,
+      "sha256": "14bab361092d9f04f034e49a408705bdcaaafc38030639325589898c8522d3a5"
+    },
+    {
+      "id": "image-c74d34d27678978bd9fe.webp",
+      "paths": [
+        "assets/image-c74d34d27678978bd9fe.webp"
+      ],
+      "bytes": 70514,
+      "sha256": "c74d34d27678978bd9fe1a428f8c5e1063d0e5321ec05dd62d7b5ddd9a8e3291"
+    },
+    {
+      "id": "image-f7fe0ebe2089abf44b96.webp",
+      "paths": [
+        "assets/image-f7fe0ebe2089abf44b96.webp"
+      ],
+      "bytes": 309536,
+      "sha256": "f7fe0ebe2089abf44b964da29ddd9c4e7e2c1e978ae38eff45fcc9b6fd458919"
+    },
+    {
+      "id": "image-4af27da373a502849627.webp",
+      "paths": [
+        "assets/image-4af27da373a502849627.webp"
+      ],
+      "bytes": 75194,
+      "sha256": "4af27da373a502849627324f32e60d0c1e3392d704b5b6987b1fecdd6dbefdbe"
+    },
+    {
+      "id": "image-a9f46c0f0ed31998937b.webp",
+      "paths": [
+        "assets/image-a9f46c0f0ed31998937b.webp"
+      ],
+      "bytes": 27564,
+      "sha256": "a9f46c0f0ed31998937b47a0e348d0f16dadf893c1cd81d11a2b0e056f195a0f"
+    },
+    {
+      "id": "image-2955fc1938ed6cd09681.webp",
+      "paths": [
+        "assets/image-2955fc1938ed6cd09681.webp"
+      ],
+      "bytes": 74258,
+      "sha256": "2955fc1938ed6cd0968170f5c1cf3f6fa1cd208ed938047132e7109a651eb235"
+    },
+    {
+      "id": "image-eb69edd3a7bb72157896.webp",
+      "paths": [
+        "assets/image-eb69edd3a7bb72157896.webp"
+      ],
+      "bytes": 53764,
+      "sha256": "eb69edd3a7bb721578964b4e23e7d9e30ec3ed79555742397ecc59743bdbb879"
+    },
+    {
+      "id": "image-b00810217ef5abddd525.webp",
+      "paths": [
+        "assets/image-b00810217ef5abddd525.webp"
+      ],
+      "bytes": 55418,
+      "sha256": "b00810217ef5abddd525a9fa241759f5685d26319c6701721f46f1cc9ae9ac20"
+    },
+    {
+      "id": "image-a668f45e2052643364ba.webp",
+      "paths": [
+        "assets/image-a668f45e2052643364ba.webp"
+      ],
+      "bytes": 155168,
+      "sha256": "a668f45e2052643364bae3e190bea9ec7bb66cd5e1c9c29db4520512e51b804d"
+    },
+    {
+      "id": "image-b5f33d55f91f0ac5e082.webp",
+      "paths": [
+        "assets/image-b5f33d55f91f0ac5e082.webp"
+      ],
+      "bytes": 133340,
+      "sha256": "b5f33d55f91f0ac5e082eb7a1604b45b77f55a6d632fc850d6f54c8901d3a597"
+    },
+    {
+      "id": "image-87254e590ae9adb192a1.webp",
+      "paths": [
+        "assets/image-87254e590ae9adb192a1.webp"
+      ],
+      "bytes": 200254,
+      "sha256": "87254e590ae9adb192a1cec150c5b6ab6774a67a9945f13fc0eabc1ed4c41b70"
+    },
+    {
+      "id": "image-1ba096acea255f34bc47.webp",
+      "paths": [
+        "assets/image-1ba096acea255f34bc47.webp"
+      ],
+      "bytes": 262350,
+      "sha256": "1ba096acea255f34bc47584ba9164c6c7f00ca55cf18893909ce63f66656dd36"
+    },
+    {
+      "id": "image-cad2b5ea6b599d3b7d98.webp",
+      "paths": [
+        "assets/image-cad2b5ea6b599d3b7d98.webp"
+      ],
+      "bytes": 294894,
+      "sha256": "cad2b5ea6b599d3b7d98fd110968f373df2bfa1b0dfb61c002a1db9068cd5b53"
+    },
+    {
+      "id": "image-7ff82eac3dc3835f4732.webp",
+      "paths": [
+        "assets/image-7ff82eac3dc3835f4732.webp"
+      ],
+      "bytes": 252656,
+      "sha256": "7ff82eac3dc3835f4732c275003a24f28edd1c03e278e8fcb53efa029d6fce4d"
+    },
+    {
+      "id": "image-2a3e63c0155b2d63956f.webp",
+      "paths": [
+        "assets/image-2a3e63c0155b2d63956f.webp"
+      ],
+      "bytes": 209542,
+      "sha256": "2a3e63c0155b2d63956f96958be00c072875a48bbc04f2d4e2ab085965501b0b"
+    },
+    {
+      "id": "image-3a12ad3ae611153805f0.webp",
+      "paths": [
+        "assets/image-3a12ad3ae611153805f0.webp"
+      ],
+      "bytes": 240810,
+      "sha256": "3a12ad3ae611153805f0b1ae4cdea8d4661bd1569abe5ea8b42833d2e8d92d49"
+    },
+    {
+      "id": "image-b17f79bf8d43a190ba1c.webp",
+      "paths": [
+        "assets/image-b17f79bf8d43a190ba1c.webp"
+      ],
+      "bytes": 85898,
+      "sha256": "b17f79bf8d43a190ba1ce16c510fdf96f55c79b1fbe14bb3aa860b417706c5cd"
+    },
+    {
+      "id": "image-4c518bfc7eedd27a1cf2.webp",
+      "paths": [
+        "assets/image-4c518bfc7eedd27a1cf2.webp"
+      ],
+      "bytes": 65104,
+      "sha256": "4c518bfc7eedd27a1cf2600f58d5b46580812422bc39686b7ce6e6757730b346"
+    },
+    {
+      "id": "image-f2d39e47bca152e51bc6.png",
+      "paths": [
+        "assets/image-f2d39e47bca152e51bc6.png"
+      ],
+      "bytes": 2856496,
+      "sha256": "f2d39e47bca152e51bc6c55318b2ed13b054697d767d65f19bf0a77c75719d94"
+    },
+    {
+      "id": "image-294433512a83ac20b26c.png",
+      "paths": [
+        "assets/image-294433512a83ac20b26c.png"
+      ],
+      "bytes": 2979653,
+      "sha256": "294433512a83ac20b26cc9adc4e8e8facd25fceb37856281d505ed5f99c5ea38"
+    },
+    {
+      "id": "image-14ef6fe7bd22ff72ab8e.png",
+      "paths": [
+        "assets/image-14ef6fe7bd22ff72ab8e.png"
+      ],
+      "bytes": 3413038,
+      "sha256": "14ef6fe7bd22ff72ab8e1c026c97e46940162268a7e581f45149b1a17fb13ebe"
+    },
+    {
+      "id": "image-c39d4479ffc0f0876e11.png",
+      "paths": [
+        "assets/image-c39d4479ffc0f0876e11.png"
+      ],
+      "bytes": 3542115,
+      "sha256": "c39d4479ffc0f0876e11fc645dcf829c0cf9be23a751b0ff7d6c232fb23f21d6"
+    },
+    {
+      "id": "image-7218d4858626b7bdef69.png",
+      "paths": [
+        "assets/image-7218d4858626b7bdef69.png"
+      ],
+      "bytes": 3216395,
+      "sha256": "7218d4858626b7bdef69891a6049c46c93255f7b73258db20bf09cca19e9a91b"
+    },
+    {
+      "id": "image-c067ae0f885083c35f5b.png",
+      "paths": [
+        "assets/image-c067ae0f885083c35f5b.png"
+      ],
+      "bytes": 3282955,
+      "sha256": "c067ae0f885083c35f5b85b4026c4c5dba1d6320a37eff0c2c14afcadf2a2150"
+    },
+    {
+      "id": "image-756228d01a6672f9c874.png",
+      "paths": [
+        "assets/image-756228d01a6672f9c874.png"
+      ],
+      "bytes": 3299041,
+      "sha256": "756228d01a6672f9c874e680b22ef730cb92461d33ebe7451e6ca33dd9b32603"
+    },
+    {
+      "id": "image-c90cff659645a312a288.webp",
+      "paths": [
+        "assets/image-c90cff659645a312a288.webp"
+      ],
+      "bytes": 42,
+      "sha256": "c90cff659645a312a28804965f3dbc34061338f7234ff5d6ddb2c57e9eadec15"
+    }
+  ],
+  "embedded_images_extracted": 30,
+  "homepage_bytes": 944047
+}
